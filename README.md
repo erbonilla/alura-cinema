@@ -56,7 +56,7 @@ This project pushed me to combine both **front-end best practices** and **AI-pow
 
 ## 📷 Screenshots
 
-> *(Add your screenshots here using markdown image syntax, e.g. `![screenshot](./src/screenshot.png)`)*
+![App Screenshot](./src/screenshot.png)
 
 ---
 
