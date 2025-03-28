@@ -1,4 +1,4 @@
-## 🎬 AI-Powered Movie App with React JS (2024)
+## 🎬 AI-Powered Movie App with React JS 
 
 This is project where I explored the latest features of **React JS** by building a complete, fully responsive **AI-powered movie application**.
 
